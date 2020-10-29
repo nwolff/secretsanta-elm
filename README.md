@@ -1,6 +1,5 @@
 
-Requires elm0.19
-
+Requires elm0.19.1
 
 To develop:
 
@@ -16,7 +15,3 @@ To build:
 
     elm make src/Main.elm --output target/elm.js
 
-
-To lint:
-
-    elm-analyse
